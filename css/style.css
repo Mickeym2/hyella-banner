@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+.side{
+    border:3px solid white;
+    float: right;
+    width: 50%;
+    height: 809px;
+    background-image: url(/images/bulb.JPEG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    object-fit: cover;
+}
+
+.top{
+    border: 3px solid white;
+    width:50%;
+    height: 400px;
+    background-image: url(/images/wall.JPG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    object-fit: cover;
+
+}
+.bottom{
+    border: 3px solid white;
+    width:50%;
+    height:400px;
+    background-image: url(/images/think.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    object-fit: cover;
+
+}
+#top_bottom{
+    display:flex;
+    flex-direction: column;
+
+}
+.side_top .top_bottom{
+    display: flex;
+    flex-direction: row;
+
+}
+p{
+    font-size: 30px;
+    font-family:sans-serif;
+    color: white;
+    letter-spacing: 0.3rem;
+    position: absolute;
+    top: 100%;
+    left: 75%;
+  
+    transform:translateX(-50%) translateY(-50%)
+}
