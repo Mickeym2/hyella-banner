@@ -27,7 +27,7 @@
     border: 3px solid white;
     width:50%;
     height:400px;
-    background-image: url(/images/think.jpg);
+    background-image: url(https://raw.githubusercontent.com/Mickeym2/hyella-banner/main/images/think.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: cover;
