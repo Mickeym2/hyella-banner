@@ -7,7 +7,7 @@
     float: right;
     width: 50%;
     height: 809px;
-    background-image: url(/images/bulb.JPEG);
+    background-image: url(https://github.com/Mickeym2/hyella/blob/main/images/bulb.jpeg?raw=true);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: cover;
@@ -17,7 +17,7 @@
     border: 3px solid white;
     width:50%;
     height: 400px;
-    background-image: url(/images/wall.JPG);
+    background-image: url(https://github.com/Mickeym2/hyella/blob/main/images/wall.jpg?raw=true);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: cover;
